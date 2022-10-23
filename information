@@ -1,0 +1,14 @@
+	
+<form action="//www.html.am/html-codes/forms/html-form-tag-action.cfm" target="result" method="get">
+Name:
+<input type="text" name="name" value="" maxlength="90" style="width:100px;">
+<br>
+Pick a color:
+<input type="radio" name="color" value="red"> Red
+<input type="radio" name="color" value="green"> Green
+<input type="radio" name="color" value="blue"> Blue
+<br>
+<button type="submit">Submit</button>
+<button type="reset">Reset</button>
+</form>
+<iframe name="result" style="height:100px;width:200px;"></iframe>
